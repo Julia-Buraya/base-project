@@ -1,0 +1,19 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Julia-Buraya/base-project.git",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julia Buraya",
+  "license": "ISC"
+}
